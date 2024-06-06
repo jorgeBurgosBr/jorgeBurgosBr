@@ -2,7 +2,7 @@
 ### Frontend developer from Spain
 
 ## 💫 About Me:
-- 👨🏻‍🎓 Studied Advanced Technician in Web Application Development at Universidad Europea of Madrid
+- 👨🏻‍🎓 Studied Certificate of Higher Education in Web Application Development at Universidad Europea of Madrid
 - 🌱 I’m currently learning **React**
 
 ## 🌐 Socials:
